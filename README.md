@@ -15,3 +15,7 @@ cd squidbot
  ```bash
 python squidbot.py
 ```
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/squidbot&type=Date)](https://star-history.com/#Iankulani/squidbot&Date)
